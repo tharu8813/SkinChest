@@ -19,7 +19,3 @@ C# WinForm을 통해 스킨을 로컬에 저장하고 로그인한 계정으로 
 <img width="327" height="442" alt="image" src="https://github.com/user-attachments/assets/a9553b18-7c06-4656-9f4b-72d42b3422e4" />
 </br>
 <img width="275" height="383" alt="image" src="https://github.com/user-attachments/assets/ba6febb6-b7cc-47d7-9378-d187a3466d0d" />
-
-## License
-This project is licensed under the  
-Creative Commons Attribution-NonCommercial 4.0 International License.
