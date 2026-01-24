@@ -3,6 +3,11 @@
 </p>
 
 # SkinChest (스킨상자)
+[![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows)](https://www.microsoft.com/windows)
+[![License](https://img.shields.io/badge/License-GPL3.0-green.svg)](LICENSE)
+![Release](https://img.shields.io/github/v/release/tharu8813/SkinChest/)
+
 > 마인크래프트 스킨을 보다 쉽게 변경하세요!
 
 ## 개요
